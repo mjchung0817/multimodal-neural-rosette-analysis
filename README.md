@@ -21,4 +21,4 @@ Kemp Lab, Georgia Institute of Technology
 
 ## Citation
 
-> [Citation TBD]
+> Adebayo ON, Turaga A, Chung M, Fernandez FM, Kemp ML. A Multimodal Workflow for Spatial Metabolic Neighborhood Mapping in Neural Rosette Cultures. *Biotechnology and Bioengineering*. 2026. [DOI TBD]
